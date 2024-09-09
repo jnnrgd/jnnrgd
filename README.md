@@ -2,7 +2,7 @@
 Avast! If you’re seeking to join forces on a new quest, I’m ready to set sail. Below lie the vessels and maps of my coding adventures—let’s chart new courses together if our stars align! Arrr!"
 
 <details>
-  <summary style="font-weight:600; font-size:14px;">Programming Languages</summary>
+  <summary>Programming Languages</summary>
     <img alt="C/C++" src="https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
@@ -13,10 +13,8 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=Solidity&logoColor=white">
 </details>
 
-<br>
-
 <details>
-  <summary style="font-weight:600; font-size:14px;">Frameworks & Libraries</summary>
+  <summary>Frameworks & Libraries</summary>
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
   <img alt="aiohttp" src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white">
@@ -33,12 +31,15 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white">
   <img alt="Testify" src="https://img.shields.io/badge/Testify-2C2C2C?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MHB4IiBoZWlnaHQ9IjYwcHgiCiAgICB2aWV3Qm94PSIwIC0xMCA4MCA4MCIgdmVyc2lvbj0iMS4xIj4KICAgIDx0aXRsZT5Hcm91cCBDb3B5IDM8L3RpdGxlPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IlJlc291cmNlcy1EZXRhaWwtMDYtLS1VWC1EZWVwLURpdmVzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTYwLjAwMDAwMCwgLTM0LjAwMDAwMCkiIGZpbGw9IiNmZmYiPgogICAgICAgICAgICA8ZyBpZD0iQ29tYmluZWQtU2hhcGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2MC4wMDAwMDAsIDM0LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBhdGgKICAgICAgICAgICAgICAgICAgICBkPSJNMCwxOS42NDI4NTcxIEwwLDAgTDYwLDAgTDYwLDE5LjY0Mjg1NzEgTDM5LjYsMTkuNjQyODU3MSBMMjAuNCwzOC42OTA0NzYyIEwyMC40LDE5LjY0Mjg1NzEgTDAsMTkuNjQyODU3MSBaIj4KICAgICAgICAgICAgICAgIDwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoCiAgICAgICAgICAgICAgICAgICAgZD0iTTI2LjQsNDcuMDIzNTcxNCBMMjYuNCw2MCBMMjAuNCw2MCBMMjAuNCw1Mi45NzYxOTA1IEwyNi40LDQ3LjAyMzU3MTQgWiBNMzkuNiwzMy45Mjg1NzE0IEwzOS42LDYwIEwzMy42LDYwIEwzMy42LDM5Ljg4MDU3MTQgTDM5LjYsMzMuOTI4NTcxNCBaIgogICAgICAgICAgICAgICAgICAgIG9wYWNpdHk9IjAuNiI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=&logoColor=white">
   <img alt="googletest" src="https://img.shields.io/badge/gTest-4A8BFF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5pb25pY29ucy12NV9sb2dvczwvdGl0bGU+PHBhdGggZD0iTTQ3My4xNiwyMjEuNDhsLTIuMjYtOS41OUgyNjIuNDZ2ODguMjJIMzg3Yy0xMi45Myw2MS40LTcyLjkzLDkzLjcyLTEyMS45NCw5My43Mi0zNS42NiwwLTczLjI1LTE1LTk4LjEzLTM5LjExYTE0MC4wOCwxNDAuMDgsMCwwLDEtNDEuOC05OC44OGMwLTM3LjE2LDE2LjctNzQuMzMsNDEtOTguNzhzNjEtMzguMTMsOTcuNDktMzguMTNjNDEuNzksMCw3MS43NCwyMi4xOSw4Mi45NCwzMi4zMWw2Mi42OS02Mi4zNkMzOTAuODYsNzIuNzIsMzQwLjM0LDMyLDI2MS42LDMyaDBjLTYwLjc1LDAtMTE5LDIzLjI3LTE2MS41OCw2NS43MUM1OCwxMzkuNSwzNi4yNSwxOTkuOTMsMzYuMjUsMjU2UzU2LjgzLDM2OS40OCw5Ny41NSw0MTEuNkMxNDEuMDYsNDU2LjUyLDIwMi42OCw0ODAsMjY2LjEzLDQ4MGM1Ny43MywwLDExMi40NS0yMi42MiwxNTEuNDUtNjMuNjYsMzguMzQtNDAuNCw1OC4xNy05Ni4zLDU4LjE3LTE1NC45QzQ3NS43NSwyMzYuNzcsNDczLjI3LDIyMi4xMiw0NzMuMTYsMjIxLjQ4WiIvPjwvc3ZnPg==&logoColor=white">
+
+
+  <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers-2535A0?style=flat-square&logo=Ethers&logoColor=white">
+  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white">
+  <img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828?style=flat-square&logo=ParitySbstrate&logoColor=white">
 </details>
 
-<br>
-
 <details>
-  <summary style="font-weight:600; font-size:14px;">Tools & Platforms</summary>
+  <summary>Tools & Platforms</summary>
   <img alt="CMake" src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=CMake&logoColor=white">
   <img alt="PDM" src="https://img.shields.io/badge/PDM-AC75D7?style=flat-square&logo=PDM&logoColor=white">
   <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white">
@@ -61,10 +62,8 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
   <img alt="Nx Cache" src="https://img.shields.io/badge/Nx%20Cache-143055?style=flat-square&logo=Nx&logoColor=white">
 </details>
 
-<br>
-
 <details>
-  <summary style="font-weight:600; font-size:14px;">Security & Monitoring</summary>
+  <summary>Security & Monitoring</summary>
   <img alt="Vault" src="https://img.shields.io/badge/Vault-FFEC6E?style=flat-square&logo=Vault&logoColor=white">
   <img alt="auth0" src="https://img.shields.io/badge/auth0-EB5424?style=flat-square&logo=auth0&logoColor=white">
   <img alt="TOTP" src="https://img.shields.io/badge/TOTP-4285F4?style=flat-square&logo=GoogleAuthenticator&logoColor=white">
@@ -76,10 +75,8 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white">
 </details>
 
-<br>
-
 <details>
-  <summary style="font-weight:600; font-size:14px;">Communication</summary>
+  <summary>Communication</summary>
   <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=MQTT&logoColor=white">
   <img alt="NATS" src="https://img.shields.io/badge/NATS.io-27AAE1?style=flat-square&logo=natsdotio&logoColor=white">
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white">
@@ -88,10 +85,8 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
   <img alt="ZeroMQ" src="https://img.shields.io/badge/ZeroMQ-DF0000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KwqAgPGNpcmNsZSBjeD0iNzUiIGN5PSI3NSIgcj0iNTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI0ZGRiIgc3Ryb2tlLXdpZHRoPSIyNSIvPgogIDxsaW5lIHgxPSIxMzAiIHgyPSIyMCIgeTE9IjIwIiB5Mj0iMTMwIiBzdHJva2U9IiNGRkYiIHN0cm9rZS13aWR0aD0iMjUiLz4KPC9zdmc+&logoColor=white">
 </details>
 
-<br>
-
 <details>
-  <summary style="font-weight:600; font-size:14px;">Databases & Storage</summary>
+  <summary>Databases & Storage</summary>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white">
@@ -100,22 +95,13 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
   <img alt="IPFS" src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=IPFS&logoColor=white">
 </details>
 
-<br>
-
 <details>
-  <summary style="font-weight:600; font-size:14px;">Blockchain</summary>
+  <summary>Other technologies</summary>
   <img alt="EVM" src="https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white">
-  <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers-2535A0?style=flat-square&logo=Ethers&logoColor=white">
-  <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white">
   <img alt="Ganache" src="https://img.shields.io/badge/Ganache-e4a663?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii02IC00IDIwMCAyMjAiPgoJPGRlZnM+CiAgICAJPHN0eWxlPgogICAgICAgIAkuY2xzLTF7ZmlsbDpub25lOyBzdHJva2U6I2ZmZjsgc3Ryb2tlLXdpZHRoOjR9CiAgICAgICAgICAgIC5jbHMtMntmaWxsOm5vbmU7IHN0cm9rZTojZmZmOyBzdHJva2Utd2lkdGg6NH0KICAgICAgICAgICAgLmNscy0ze2ZpbGw6I2ZmZjt9CiAgICAgICAgPC9zdHlsZT4KICAgIDwvZGVmcz4KICAgIDx0aXRsZT5nYW5hY2hlLWxvZ29tYXJrPC90aXRsZT4KICAgIDxnIGlkPSJMYXllcl8yIiBkYXRhLW5hbWU9IkxheWVyIDIiPgogICAgCTxnIGlkPSJMYXllcl84IiBkYXRhLW5hbWU9IkxheWVyIDgiPgogICAgCQk8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0xNjUuMzgsMTYwLjMxYzIuMjQsMCwzLS41Miw0LjA2LTIuMzNzLjU1LTQuNzUuNTEtNS41NWMtLjEtMS43Ni0uNjktMy43Mi0uNzYtNC43LS4wNS0uNiwwLTQuNDMuMDktNiwxLjM0LTI0Ljg0LDEyLTMwLjc1LDE1LjA3LTMxLjQyYTguNTksOC41OSwwLDAsMSw1Ljk0LjRsMC0zOGgwbDAtLjU0VjYyLjA5YzAtNS40OS0zLjkxLTEyLjI0LTguNjYtMTVsLTc3Ljg3LTQ1Qzk5LS42OSw5MS4xOS0uNjksODYuNDMsMi4wNkw4LjY1LDQ3QzMuODksNDkuNzEsMCw1Ni40NiwwLDYydjkuODJzMCwuMTEsMCwuMTdWODYuMzNjLjQ1LjI1LjkxLjUxLDEuMzYuNzksMS41LDEsMywxLjU1LDQuNTEsMi42YTY4LjQzLDY4LjQzLDAsMCwxLDEyLDkuMjhjLjcuNjgsMy4wNywzLjY2LDMuNjQsNC4zNmE0Ny4yMiw0Ny4yMiwwLDAsMCw1Ljc3LDYuNiwyMC42MiwyMC42MiwwLDAsMCwzLjg3LDIuNzhjMi4yOCwxLjE5LDYuMDcuOTIsOCwuMDcsMTQuODItNi40MiwyNC4xMi0zLjIsMjguNDEtLjYyLDEwLjYxLDYuMzcsMTQuMTUsMTUuMjgsMTUuMjgsMjYuMWEyOS4yMiwyOS4yMiwwLDAsMSwuMTQsNC4yMmMwLDIuNTctLjA5LDYuNywyLjYyLDcuMzksMy44OSwxLDQuODMtMy4xNiw1LjQxLTUuOTIsMS4zMi02LjI1LDkuNjMtMTAuMzUsMTUuNzItNy4yLDQuMiwyLjE3LDUuOTIsMy40LDEwLjA3LDEuNTcsNS4yLTIuMjksNy44Ny04LjEyLDkuNjgtMTEuMjJBMTksMTksMCwwLDEsMTM0LDEyMGM4LjExLTUuMDUsMjguNDYtMy43NCwyOS4yMSwxOC43LDAsMS4yMiwwLDQuMzQsMCw2LjI0LDAsMi4xNC4wNyw0LjIzLS4wNyw2LjQ0LS4wOCwxLjQ3LS4zNSwzLS40OSw0LjUxQzE2Mi41NSwxNTUuOSwxNjEuNzksMTYwLjI5LDE2NS4zOCwxNjAuMzFaIi8+CiAgICAgICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtMiIgZD0iTTE5MC4yOCwxMTAuNzVjLS41Ni0uMTctMi4xNi0xLjIyLTUuOTMtLjQtMy4wOS42Ny0xMy43Myw2LjU4LTE1LjA3LDMxLjQyLS4wOCwxLjUzLS4xNCw1LjM2LS4wOSw2LC4wNywxLC42NiwyLjk0Ljc2LDQuNywwLC44LjYyLDMuNy0uNTEsNS41NXMtMS44MiwyLjM0LTQuMDYsMi4zM2MtMy41OSwwLTIuODMtNC40MS0yLjgzLTQuNDEuMTQtMS40OS40MS0zLC40OS00LjUxLjE0LTIuMjEuMDctNC4zLjA3LTYuNDQsMC0xLjksMC01LDAtNi4yNEMxNjIuNDEsMTE2LjI3LDE0Mi4wNiwxMTUsMTM0LDEyMGExOSwxOSwwLDAsMC03LjQ4LDcuMTJjLTEuODEsMy4xLTQuNDgsOC45My05LjY4LDExLjIyLTQuMTUsMS44My01Ljg3LjYtMTAuMDctMS41Ny02LjA5LTMuMTUtMTQuNC45NS0xNS43Miw3LjItLjU4LDIuNzYtMS41Miw2LjkxLTUuNDEsNS45Mi0yLjcxLS42OS0yLjYyLTQuODItMi42Mi03LjM5YTI5LjIyLDI5LjIyLDAsMCwwLS4xNC00LjIyYy0xLjEzLTEwLjgyLTQuNjctMTkuNzMtMTUuMjgtMjYuMS00LjI5LTIuNTgtMTMuNTktNS44LTI4LjQxLjYyLTIsLjg1LTUuNzQsMS4xMi04LS4wN0EyMC42MiwyMC42MiwwLDAsMSwyNy4yNSwxMTBhNDcuMjIsNDcuMjIsMCwwLDEtNS43Ny02LjZjLS41Ny0uNy0yLjk0LTMuNjgtMy42NC00LjM2YTY4LjQzLDY4LjQzLDAsMCwwLTEyLTkuMjhjLTEuNTItMS0zLTEuNjQtNC41MS0yLjYtLjQ1LS4yOC0uOTEtLjU0LTEuMzYtLjc5bDAsNjUuNTdjMCw1LjUsMy45LDEyLjI1LDguNjYsMTVsNzcuODYsNDVjNC43NiwyLjc2LDEyLjU1LDIuNzYsMTcuMzEsMEwxODEuNjYsMTY3YzQuNzYtMi43NSw4LjY1LTkuNSw4LjY1LTE1WiIvPgogICAgICAgICAgICA8cGF0aCBjbGFzcz0iY2xzLTMiIGQ9Ik0xMDUsOTkuNzNjLTUuMzksMy4xMS0xNC4yLDMuMTEtMTkuNTgsMGwtNzkuNjEtNDJjLjkuODksODAuNzMsNDcuMjcsODAuNzMsNDcuMjcsNC43NiwyLjc2LDEyLjU1LDIuNzYsMTcuMzEsMCwwLDAsNzkuNzQtNDYuMjQsODAuNjMtNDcuMTNaIi8+CiAgICAgICAgICAgIDxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTg1LjMyLDguMDhDOTAuNzEsNSw5OS41Miw1LDEwNC45LDguMDlsOS42NSw0Yy0uOS0uODktMTAuNzgtNy4yOS0xMC43OC03LjI5LTQuNzUtMi43NS0xMi41NC0yLjc2LTE3LjMsMCwwLDAtMTUuNzcsOS4yNy0xNi42NywxMC4xNVoiLz4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==&logoColor=white">
   <img alt="OpenZeppelin" src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=OpenZeppelin&logoColor=white">
-  <img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828?style=flat-square&logo=paritysubstrate&logoColor=white">
-</details>
 
-<br>
 
-<details>
-  <summary style="font-weight:600; font-size:14px;">Embedded Systems</summary>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white">
   <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=Espressif&logoColor=white">
