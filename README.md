@@ -18,22 +18,19 @@ Avast! If you’re seeking to join forces on a new quest, I’m ready to set sai
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
   <img alt="aiohttp" src="https://img.shields.io/badge/aiohttp-2C5BB4?style=flat-square&logo=aiohttp&logoColor=white">
-
-
+  <br>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
   <img alt="LoopBack" src="https://img.shields.io/badge/LoopBack-231F20?style=flat-square&logo=LoopBack&logoColor=white">
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">
   <img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=ReactiveX&logoColor=white">
   <img alt="XState" src="https://img.shields.io/badge/XState-2C3E50?style=flat-square&logo=XState&logoColor=white">
-
-
+  <br>
   <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=Pytest&logoColor=white">
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white">
   <img alt="Testify" src="https://img.shields.io/badge/Testify-2C2C2C?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MHB4IiBoZWlnaHQ9IjYwcHgiCiAgICB2aWV3Qm94PSIwIC0xMCA4MCA4MCIgdmVyc2lvbj0iMS4xIj4KICAgIDx0aXRsZT5Hcm91cCBDb3B5IDM8L3RpdGxlPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9IlJlc291cmNlcy1EZXRhaWwtMDYtLS1VWC1EZWVwLURpdmVzIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTYwLjAwMDAwMCwgLTM0LjAwMDAwMCkiIGZpbGw9IiNmZmYiPgogICAgICAgICAgICA8ZyBpZD0iQ29tYmluZWQtU2hhcGUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE2MC4wMDAwMDAsIDM0LjAwMDAwMCkiPgogICAgICAgICAgICAgICAgPHBhdGgKICAgICAgICAgICAgICAgICAgICBkPSJNMCwxOS42NDI4NTcxIEwwLDAgTDYwLDAgTDYwLDE5LjY0Mjg1NzEgTDM5LjYsMTkuNjQyODU3MSBMMjAuNCwzOC42OTA0NzYyIEwyMC40LDE5LjY0Mjg1NzEgTDAsMTkuNjQyODU3MSBaIj4KICAgICAgICAgICAgICAgIDwvcGF0aD4KICAgICAgICAgICAgICAgIDxwYXRoCiAgICAgICAgICAgICAgICAgICAgZD0iTTI2LjQsNDcuMDIzNTcxNCBMMjYuNCw2MCBMMjAuNCw2MCBMMjAuNCw1Mi45NzYxOTA1IEwyNi40LDQ3LjAyMzU3MTQgWiBNMzkuNiwzMy45Mjg1NzE0IEwzOS42LDYwIEwzMy42LDYwIEwzMy42LDM5Ljg4MDU3MTQgTDM5LjYsMzMuOTI4NTcxNCBaIgogICAgICAgICAgICAgICAgICAgIG9wYWNpdHk9IjAuNiI+PC9wYXRoPgogICAgICAgICAgICA8L2c+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=&logoColor=white">
   <img alt="googletest" src="https://img.shields.io/badge/gTest-4A8BFF?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSIjZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5pb25pY29ucy12NV9sb2dvczwvdGl0bGU+PHBhdGggZD0iTTQ3My4xNiwyMjEuNDhsLTIuMjYtOS41OUgyNjIuNDZ2ODguMjJIMzg3Yy0xMi45Myw2MS40LTcyLjkzLDkzLjcyLTEyMS45NCw5My43Mi0zNS42NiwwLTczLjI1LTE1LTk4LjEzLTM5LjExYTE0MC4wOCwxNDAuMDgsMCwwLDEtNDEuOC05OC44OGMwLTM3LjE2LDE2LjctNzQuMzMsNDEtOTguNzhzNjEtMzguMTMsOTcuNDktMzguMTNjNDEuNzksMCw3MS43NCwyMi4xOSw4Mi45NCwzMi4zMWw2Mi42OS02Mi4zNkMzOTAuODYsNzIuNzIsMzQwLjM0LDMyLDI2MS42LDMyaDBjLTYwLjc1LDAtMTE5LDIzLjI3LTE2MS41OCw2NS43MUM1OCwxMzkuNSwzNi4yNSwxOTkuOTMsMzYuMjUsMjU2UzU2LjgzLDM2OS40OCw5Ny41NSw0MTEuNkMxNDEuMDYsNDU2LjUyLDIwMi42OCw0ODAsMjY2LjEzLDQ4MGM1Ny43MywwLDExMi40NS0yMi42MiwxNTEuNDUtNjMuNjYsMzguMzQtNDAuNCw1OC4xNy05Ni4zLDU4LjE3LTE1NC45QzQ3NS43NSwyMzYuNzcsNDczLjI3LDIyMi4xMiw0NzMuMTYsMjIxLjQ4WiIvPjwvc3ZnPg==&logoColor=white">
-
-
+  <br>
   <img alt="Ethers.js" src="https://img.shields.io/badge/Ethers-2535A0?style=flat-square&logo=Ethers&logoColor=white">
   <img alt="Web3.js" src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white">
   <img alt="Substrate" src="https://img.shields.io/badge/Substrate-282828?style=flat-square&logo=ParitySbstrate&logoColor=white">
