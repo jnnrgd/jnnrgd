@@ -1,4 +1,4 @@
-## Ahoy, sailor of the digital sees!
+## Ahoy, sailor of the digital seas!
 Avast! If you’re seeking to join forces on a new quest, I’m ready to set sail. Below lie the vessels and maps of my coding adventures—let’s chart new courses together if our stars align! ___Arrr!___
 
 <details>
